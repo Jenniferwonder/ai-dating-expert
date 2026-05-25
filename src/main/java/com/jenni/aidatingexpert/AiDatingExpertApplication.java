@@ -1,4 +1,4 @@
-package com.example.aidatingexpert;
+package com.jenni.aidatingexpert;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
